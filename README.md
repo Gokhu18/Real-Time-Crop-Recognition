@@ -1,2 +1,2 @@
-# Real-time-crop-recognition
+# Real-time crop recognition
 
