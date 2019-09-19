@@ -16,7 +16,7 @@ git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 
 2.Download the dataset and put them under the folder"Real-Time-Crop-Recognition-master".
 
-You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition-master" for our dataset).
+You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed under the folder"Real-Time-Crop-Recognition-master" for our dataset).
 
 
 ### Train
@@ -27,7 +27,7 @@ If you want to train the model,you can run
 cd .../Real Time Crop Recognition
 python train-aaf.py
 ```
-You can get the well-trained model in the folder"model".
+You can get the well-trained model under the folder"model".
 
 ### Test
 
@@ -36,7 +36,7 @@ If you want to test the model,you can run
 ```python
 python test.py
 ```
-You can get the test result in the folder"result".
+You can get the test result under the folder"result".
 
 About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
