@@ -47,4 +47,4 @@ NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time
 
 ### Acknowledgements
 
-We would like to especially thank GaoBin（[github](https://github.com/gbyy422990/salience_object_detection)）,QiBin（[github](https://github.com/Andrew-Qibin/DSS) and Ke([github](https://github.com/twke18/Adaptive_Affinity_Fields)) for the use of part of their code.
+We would like to especially thank GaoBin（[github](https://github.com/gbyy422990/salience_object_detection)）,QiBin（[github](https://github.com/Andrew-Qibin/DSS)) and Ke([github](https://github.com/twke18/Adaptive_Affinity_Fields)) for the use of part of their code.
