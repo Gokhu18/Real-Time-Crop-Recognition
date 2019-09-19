@@ -6,7 +6,7 @@ you can download our dataset [here](https://pan.baidu.com/s/1gH1X_FXsP8ah2ehKGBi
 
 ## Usage
 
-Please install Tensorflow and required package first
+Please install Tensorflow and required packages first
 
 1.Download our code.
 
@@ -16,7 +16,7 @@ git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 
 2.Download the dataset and put them under the folder"Real-Time-Crop-Recognition".
 
-You can run ``` python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition" for our dataset).
+You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition" for our dataset).
 
 
 ### Train
