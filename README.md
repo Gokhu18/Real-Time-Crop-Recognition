@@ -27,7 +27,7 @@ If you want to train the model,you can run
 cd .../Real Time Crop Recognition
 python train.py
 ```
-You can find the trained model in the folder"model"
+You can find the well-trained model in the folder"model"
 
 ### test
 
