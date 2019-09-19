@@ -40,12 +40,12 @@ You can get the test result in the folder"result".
 
 About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
-### Citation
+## Citation
 
 If you think this work is helpful, please cite
 
 NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE ACESS.will be published in the future.
 
-### Acknowledgements
+## Acknowledgements
 
 We would like to especially thank GaoBin（[github](https://github.com/gbyy422990/salience_object_detection)）,QiBin（[github](https://github.com/Andrew-Qibin/DSS)) and Ke([github](https://github.com/twke18/Adaptive_Affinity_Fields)) for the use of part of their code.
