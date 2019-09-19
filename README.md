@@ -43,6 +43,7 @@ About the CRF code we used, you can find it [here](https://github.com/Andrew-Qib
 ### Citation
 
 If you think this work is helpful, please cite
+
 NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE ACESS.will be published in the future.
 
 ### Acknowledgements
