@@ -1,8 +1,8 @@
-# Real-time crop recognition
+# Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach
 
 ## Dateset
 
-you can download our dataset here(https://pan.baidu.com/s/1gH1X_FXsP8ah2ehKGBiSOg)
+you can download our dataset [here](https://pan.baidu.com/s/1gH1X_FXsP8ah2ehKGBiSOg)
 
 ## Usage
 
@@ -27,14 +27,22 @@ If you want to train the model,you can run
 cd .../Real Time Crop Recognition
 python train.py
 ```
-You can find the well-trained model in the folder"model"
+You can get the well-trained model in the folder"model".
 
-### test
+### Test
 
 If you want to test the model,you can run
 
 ```python
 python test.py
 ```
-You can find the test result in the folder"result"
+You can get the test result in the folder"result".
 
+About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
+
+If you think this work is helpful, please cite
+NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE ACESS.will be published in the future.
+
+### Acknowledgements
+
+We would like to especially thank 
