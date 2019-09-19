@@ -16,7 +16,7 @@ git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 
 2.Download the dataset and put them under the folder"Real-Time-Crop-Recognition".
 
-You can run ``` python train.py ```to create .csv file of dataset(already existed in the folder"Real-Time-Crop-Recognition" for our dataset).
+You can run ``` python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition" for our dataset).
 
 
 ### Train
@@ -40,9 +40,11 @@ You can get the test result in the folder"result".
 
 About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
+### Citation
+
 If you think this work is helpful, please cite
 NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE ACESS.will be published in the future.
 
 ### Acknowledgements
 
-We would like to especially thank 
+We would like to especially thank GaoBin（[github](https://github.com/gbyy422990/salience_object_detection)）,QiBin（[github](https://github.com/Andrew-Qibin/DSS) and Ke([github](https://github.com/twke18/Adaptive_Affinity_Fields)) for the use of part of their code.
