@@ -25,7 +25,7 @@ If you want to train the model,you can run
 
 ```python
 cd .../Real Time Crop Recognition
-python train.py
+python train-aaf.py
 ```
 You can get the well-trained model in the folder"model".
 
