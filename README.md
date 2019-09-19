@@ -14,9 +14,9 @@ Please install Tensorflow and required packages first
 git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 ```
 
-2.Download the dataset and put them under the folder"Real-Time-Crop-Recognition".
+2.Download the dataset and put them under the folder"Real-Time-Crop-Recognition-master".
 
-You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition" for our dataset).
+You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed in the folder"Real-Time-Crop-Recognition-master" for our dataset).
 
 
 ### Train
