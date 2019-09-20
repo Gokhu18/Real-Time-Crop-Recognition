@@ -2,7 +2,9 @@
 
 ## Dateset
 
-you can download our dataset [here](https://pan.baidu.com/s/1gH1X_FXsP8ah2ehKGBiSOg)
+you can download our dataset with the resolution of 400x300[here](https://pan.baidu.com/s/1FloZQhICkibRxh-2GJTwyg
+)and with the resolution of 512x384[here](https://pan.baidu.com/s/1CPi_BXXDQiOiryMDegZz8Q
+)
 
 ## Usage
 
@@ -14,7 +16,7 @@ Please install Tensorflow and required packages first
 git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 ```
 
-### Download the dataset and put them under the folder"Real-Time-Crop-Recognition-master".
+### Download the dataset with the resolution of 400x300(as for dataset with the resolution of 512x384,you should rename dataset folder "dataset1" to "dataset" first) and directly put them under the folder"Real-Time-Crop-Recognition-master".
 
 You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed under the folder"Real-Time-Crop-Recognition-master" for our dataset).
 
