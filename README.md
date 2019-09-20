@@ -24,7 +24,7 @@ You can run ``` .../python csv_generator.py ```to create .csv files of dataset(a
 If you want to train the model,you can run
 
 ```python
-cd .../Real Time Crop Recognition
+cd .../Real-Time-Crop-Recognition-master
 python train-aaf.py
 ```
 You can get the well-trained model under the folder"model".
@@ -44,7 +44,8 @@ About the CRF code we used, you can find it [here](https://github.com/Andrew-Qib
 
 If you think this work is helpful, please cite
 
-NAN LI,XIAOGUANG ZHANG,CHUNLONG ZHANG,HUIWEN GUO,ZHE SUN,AND XINYU WU."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE Access.will be published in the future.
+Nan Li, Xiaoguang Zhang,Chunlong Zhang,Huiwen Guo,Zhe Sun, and Xinyu Wu."Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach."IEEE Access, 2019, Early Access, DOI:10.1109/ACCESS.2019.2942158
+
 
 ## Acknowledgements
 
