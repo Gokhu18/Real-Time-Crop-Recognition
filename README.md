@@ -2,7 +2,7 @@
 
 ## Dateset
 
-you can download our dataset with the resolution of 400x300 [here](https://pan.baidu.com/s/1FloZQhICkibRxh-2GJTwyg
+You can download our dataset with the resolution of 400x300 [here](https://pan.baidu.com/s/1FloZQhICkibRxh-2GJTwyg
 ) and with the resolution of 512x384 [here](https://pan.baidu.com/s/1CPi_BXXDQiOiryMDegZz8Q
 )
 
