@@ -52,3 +52,5 @@ Nan Li, Xiaoguang Zhang,Chunlong Zhang,Huiwen Guo,Zhe Sun, and Xinyu Wu."Real-ti
 ## Acknowledgements
 
 We would like to especially thank GaoBin（[github](https://github.com/gbyy422990/salience_object_detection)）,QiBin（[github](https://github.com/Andrew-Qibin/DSS)) and Ke([github](https://github.com/twke18/Adaptive_Affinity_Fields)) for the use of part of their code.
+
+You can also find our code on our [ihub](https://bggit.ihub.org.cn/p92305876/Real-Time-Crop-Recognition .git).
