@@ -1,10 +1,8 @@
 # Real-time crop recognition in transplanted fields with prominent weed growth: a visual-attention-based approach
 
-## Dateset
+## Datesets
 
-You can download our dataset with the resolution of 400x300 [here](https://pan.baidu.com/s/1FloZQhICkibRxh-2GJTwyg
-) and with the resolution of 512x384 [here](https://pan.baidu.com/s/1CPi_BXXDQiOiryMDegZz8Q
-)
+we have two datasets with different resolution,IMAGE400x300 with the resolution of 400x300 and IMAGE512x384 with the resolution of 512x384.
 
 ## Usage
 
@@ -16,9 +14,12 @@ Please install Tensorflow and required packages first
 git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 ```
 
-### Download the dataset with the resolution of 400x300(as for dataset with the resolution of 512x384,you should rename dataset folder "dataset1" to "dataset" first) and directly put them under the folder "Real-Time-Crop-Recognition-master".
+### create .csv files of dataset.
 
-You can run ``` .../python csv_generator.py ```to create .csv files of dataset(already existed under the folder"Real-Time-Crop-Recognition-master" for our dataset).
+Replace the line 13 ```path = './dataset/'+ dirname +'/'``` of csv_generator.py with ```path = './IMAGE400x300/'+ dirname +'/'```,if you use the dataset IMAGE400x300.
+Replace the line 13 ```path = './dataset/'+ dirname +'/'``` of csv_generator.py with ```path = './IMAGE512x384/'+ dirname +'/'```,if you use the dataset IMAGE512x384.
+
+You can run ``` .../python csv_generator.py ```to create .csv files of dataset.
 
 
 ### Train
