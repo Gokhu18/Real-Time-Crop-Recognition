@@ -31,16 +31,16 @@ If you want to train the model,you can run
 cd .../Real-Time-Crop-Recognition-master
 python train-aaf.py
 ```
-You can get the well-trained model under the folder"model".
+You can get the well-trained model under the folder"model1".
 
 ### Test
 
-If you want to test the model,you can run
+If you want to test the model,please modify the default --input_dir of test.py(line 15),then you can run
 
 ```python
 python test.py
 ```
-You can get the test result under the folder"result".
+You can get the test result under the folder"result1".
 
 About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
