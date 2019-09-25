@@ -2,11 +2,11 @@
 
 ## Datesets
 
-we have two datasets with different resolution,IMAGE400x300 with the resolution of 400x300 and IMAGE512x384 with the resolution of 512x384.
+We have two datasets with different resolution,IMAGE400x300 with the resolution of 400x300 and IMAGE512x384 with the resolution of 512x384.
 
 ## Usage
 
-Please install Tensorflow and required packages first
+Please install Tensorflow and required packages first.
 
 ### Download our code.
 
