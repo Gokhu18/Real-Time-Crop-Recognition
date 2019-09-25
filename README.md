@@ -14,9 +14,10 @@ Please install Tensorflow and required packages first
 git clone https://github.com/ZhangXG001/Real-Time-Crop-Recognition.git
 ```
 
-### create .csv files of dataset.
+### Create .csv files of dataset.
 
 Replace the line 13 ```path = './dataset/'+ dirname +'/'``` of csv_generator.py with ```path = './IMAGE400x300/'+ dirname +'/'```,if you use the dataset IMAGE400x300.
+
 Replace the line 13 ```path = './dataset/'+ dirname +'/'``` of csv_generator.py with ```path = './IMAGE512x384/'+ dirname +'/'```,if you use the dataset IMAGE512x384.
 
 You can run ``` .../python csv_generator.py ```to create .csv files of dataset.
