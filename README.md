@@ -35,7 +35,7 @@ You can get the well-trained model under the folder"model1".
 
 ### Test
 
-If you want to test the model,please modify the default --input_dir of test.py(line 15),then you can run
+If you want to test the model,please modify the default input_dir of test.py(line 15),then you can run
 
 ```python
 python test.py
